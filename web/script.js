@@ -1,5 +1,5 @@
 // ==========================================================
-// XQR FOR MERCHANTS — WEB INTERFACE
+// XQRTech — WEB INTERFACE
 // ==========================================================
 
 const imageInput = document.getElementById("imageInput");

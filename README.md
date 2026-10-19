@@ -1,4 +1,4 @@
-# 🔐 XQR FOR MERCHANTS
+# 🔐 XQRTech
 
 ### An Explainable Tamper-Detection Framework for Small Business UPI Payments
 
@@ -17,7 +17,7 @@
   <b>Detect suspicious QR-code sticker tampering using computer vision, image forensics, and explainable analysis.</b>
 </p>
 
-XQR FOR MERCHANTS is a prototype digital-forensics system designed to detect possible tampering around physical QR-code payment stickers used by small businesses.
+XQRTech is a prototype digital-forensics system designed to detect possible tampering around physical QR-code payment stickers used by small businesses.
 
 The system combines computer vision, digital image forensics, machine learning, and explainable analysis to identify suspicious visual and compression-related anomalies around QR codes.
 
@@ -55,7 +55,7 @@ Physical QR-code payment stickers can potentially be replaced, covered, modified
 
 A customer may scan a QR code without noticing that the displayed payment destination has been changed.
 
-XQR FOR MERCHANTS explores whether image-forensic techniques can help identify suspicious modifications around physical QR-code payment stickers.
+XQRTech explores whether image-forensic techniques can help identify suspicious modifications around physical QR-code payment stickers.
 
 ---
 
@@ -475,7 +475,7 @@ results/evaluation/controlled_evaluation.txt
 
 ## ⚠️ Limitations
 
-XQR FOR MERCHANTS is currently a research prototype.
+XQRTech is currently a research prototype.
 
 Important limitations include:
 
@@ -515,7 +515,7 @@ Future development may include:
 
 ## 🔮 Research Direction
 
-XQR FOR MERCHANTS explores the combination of:
+XQRTech explores the combination of:
 
 ```text
 Computer Vision
@@ -535,7 +535,7 @@ The project investigates whether these techniques can provide understandable for
 
 ## 🎯 Project Goal
 
-The long-term goal of XQR FOR MERCHANTS is to explore a practical and explainable approach for identifying suspicious modifications to physical QR payment stickers.
+The long-term goal of XQRTech is to explore a practical and explainable approach for identifying suspicious modifications to physical QR payment stickers.
 
 Instead of relying only on a black-box prediction, the system attempts to provide:
 
@@ -553,7 +553,7 @@ This makes the approach suitable for research into explainable digital forensics
 
 ## 📜 Disclaimer
 
-XQR FOR MERCHANTS is an educational and research prototype.
+XQRTech is an educational and research prototype.
 
 The system detects image-level forensic anomalies and does not independently verify the identity of a payment recipient, determine whether a transaction is fraudulent, or establish malicious intent.
 

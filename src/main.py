@@ -5,7 +5,7 @@ from src.forensics.fusion import analyze_image
 
 def main():
     print("\n" + "=" * 50)
-    print("        XQR FOR MERCHANTS")
+    print("        XQRTech")
     print("   QR FORENSIC TAMPER DETECTION")
     print("=" * 50)
 
